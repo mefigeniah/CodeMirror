@@ -5,13 +5,17 @@ CodeMirror is a Java Swing-based text editor designed to provide developers with
 📋 **Table of Contents**
 
 Overview
+
 Features
+
 Getting Started
+
 Installation
+
 Usage
-Project Structure
+
 CI/CD Pipeline
-Contributing
+
 License
 
 🚀 **Overview**
